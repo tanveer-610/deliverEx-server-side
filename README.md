@@ -1,10 +1,12 @@
 # deliverEx
 This app is created by React, react route,react bootstrap, firebase node js and mongodb. It helps to take deliver any product in online.
 
-* This App Helps to select get service in online 
+* This App Helps to get service in online 
 * Can easily find best ever delivery service
 * Able to see and reject own service
 * Find best delivery system in one place  
+* Check users Authentication & Authorization.
+* Admin have access to add new services.
 * Overall it can create a quality in delivery environment <br/>
 ============================================================== <br/>
 ## This project was developed with react,react-bootstrap,firebase,Mongodb,node js ,express js
